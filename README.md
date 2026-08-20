@@ -79,6 +79,28 @@ Developed a real-time Morse code audio decoder using digital signal processing a
 
 ---
 
+### 🌬️ Physics-Informed Wind Power Forecasting
+
+**5 MW Wind Turbine Physics + Random Forest Residual Learning**
+
+Developed a physics-informed hybrid wind-power forecasting model that combines a **5 MW turbine physics model** with **Random Forest residual learning** to improve power prediction and reduce forecast uncertainty.
+
+**Highlights**
+- 5 MW wind-turbine power-curve modelling
+- Wind-speed extrapolation from reference height to hub height
+- Air-density correction using temperature and pressure
+- Physics-based baseline power prediction
+- Random Forest residual learning
+- Hybrid physics + machine-learning power prediction
+- 5-day / 120-hour ahead forecast scenario
+- MAE, normalized MAE and reserve-metric evaluation
+
+🔗 [View Project](https://github.com/Mayank07-Git/physics-informed-wind-power-forecasting)
+
+> **Note:** The current implementation uses synthetic weather variables and simulated measured power for reproducible modelling experiments rather than real turbine SCADA validation.
+
+---
+
 ## 🎓 Education
 
 **Master of Engineering — Automation & IT**  
@@ -149,6 +171,6 @@ I'm interested in opportunities in Germany related to:
 
 📍 Gummersbach, Germany
 
-🔗 [LinkedIn](www.linkedin.com/in/mayank-dinesh-mehta-32b8a517b/)
+🔗 [LinkedIn](https://www.linkedin.com/in/mayank-dinesh-mehta-32b8a517b/)
 
 🔗 [GitHub](https://github.com/Mayank07-Git)
